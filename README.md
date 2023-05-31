@@ -16,8 +16,6 @@ La página cuenta con la siguiente estructura:
 1. Un encabezado con el título "Ratatouille" que muestra el nombre de la aplicación.
 2. Un formulario de contacto que consta de los siguientes campos:
    - Nombre: Permite al usuario ingresar su nombre.
-   - Correo electrónico: Permite al usuario ingresar su dirección de correo electrónico.
-   - Mensaje: Permite al usuario ingresar un mensaje.
 3. Una lista de características de la página que se generan dinámicamente a partir de un array de características.
 4. Un botón de envío para enviar el formulario.
 5. Una alerta en pantalla que se muestra después de enviar el formulario, mostrando los datos ingresados por el usuario.
