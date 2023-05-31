@@ -51,6 +51,9 @@ La aplicación se compone de los siguientes componentes:
 
 ¡Disfruta de tu experiencia culinaria con Ratatouille!
 
+## Link del video 
+* https://drive.google.com/drive/folders/166LmS1vwZ6rUglZci7b4hykii-6cbRCy?usp=sharing
+
 
 
 
